@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # devsecops-demo
 =======
 # Tic Tac Toe Game
 
 A modern implementation of the classic Tic Tac Toe game built with React, TypeScript, and Tailwind CSS.
 
-![Tic Tac Toe Game](https://images.unsplash.com/photo-1611996575749-79a3a250f948?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
+![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
+
 
 ## Features
 
@@ -91,6 +91,7 @@ yarn build
 
 The build artifacts will be stored in the `dist/` directory.
 
+<<<<<<< HEAD
 ## Future Enhancements
 
 - AI opponent with adjustable difficulty
@@ -108,4 +109,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Inspired by the classic Tic Tac Toe game
 - Built with modern web technologies
->>>>>>> 78bb916 (feat: add source code for tiktactoe)
